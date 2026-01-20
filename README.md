@@ -66,7 +66,3 @@ _Mar 2021 – Dic 2025_
 ## 📫 Contacto
 - ✉️ juanchicanestrari@gmail.com  
 - 🔗 https://www.linkedin.com/in/jcanestrari/
-
----
-
-> Si querés, puedo convertir este README a **versión en inglés**, añadir **proyectos destacados** o generar badges adicionales. 🚀
