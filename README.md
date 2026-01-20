@@ -1,14 +1,72 @@
-<h1 align="center">Hi 👋, I'm Juanchi Canestrari</h1>
-<h3 align="center">Im a Computer Science Engineering Student and a fullstack developer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanchi1223" alt="juanchi1223" /></a> </p>
-
-- 📫 How to reach me **juanchicanestra@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jcanestrari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan jose canestrari" height="30" width="40" /></a>
+<p align="center">
+  <h1>👋 Hola, soy Juan José Canestrari</h1>
+  <p>Desarrollador de Software · Java | Spring Boot · APIs REST</p>
+  <p>
+    <a href="mailto:juanchicanestrari@gmail.com">✉️ juanchicanestrari@gmail.com</a>
+    &nbsp;&middot;&nbsp;
+    <a href="https://www.linkedin.com/in/jcanestrari/">🔗 LinkedIn</a>
+  </p>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h3 align="center">💻 Desarrollador de Software | Ingeniería en Informática (UADE) | Inglés C1</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jcanestrari/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white">
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+</p>
+
+---
+
+## 🧾 Resumen
+Desarrollador de software orientado a resultados, con experiencia en el diseño e implementación de soluciones eficientes. Apasionado por la tecnología y la mejora continua. Busco un rol desafiante donde pueda aplicar mis conocimientos técnicos y seguir creciendo profesionalmente.
+
+---
+
+## 💼 Experiencia
+**IT Trainee — ITR, Zurich Santander Insurance America**  
+_Feb 2024 – Presente_
+
+- Diseño, desarrollo y mantenimiento de **APIs REST** escalables y de alto rendimiento.  
+- Integración de nuevas funcionalidades y evolución de **sistemas legados** siguiendo buenas prácticas.  
+- Trabajo en entornos **ágiles** con equipos de producto y stakeholders.  
+- Arquitectura de soluciones técnicas robustas y mantenibles.  
+- Análisis técnico y propuesta de soluciones para problemas complejos.
+
+---
+
+## 🎓 Educación
+**Ingeniería en Informática** — Universidad Argentina de la Empresa (UADE)  
+_Mar 2021 – Dic 2025_
+
+**Contenidos relevantes:** Arquitectura de Aplicaciones, Inteligencia Artificial, Dirección de Proyectos.
+
+---
+
+## 🛠️ Tech Stack
+**Lenguajes & Frameworks:** Java · Spring Boot · Spring Batch · Python  
+**Arquitectura:** Microservices · Clean Architecture · RESTful APIs  
+**Datos:** SQL  
+**Dev & Testing:** Git · Unit Testing  
+**Metodologías:** Agile / Scrum
+
+<details>
+<summary>📚 Certificaciones & Idiomas</summary>
+
+- **AWS Academy Graduate** — Cloud Foundations  
+- **Desarrollo Ágil de Software** — LinkedIn Learning  
+- **Inglés:** C1
+
+</details>
+
+---
+
+## 📫 Contacto
+- ✉️ juanchicanestrari@gmail.com  
+- 🔗 https://www.linkedin.com/in/jcanestrari/
+
+---
+
+> Si querés, puedo convertir este README a **versión en inglés**, añadir **proyectos destacados** o generar badges adicionales. 🚀
