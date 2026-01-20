@@ -46,11 +46,8 @@ _Mar 2021 – Dic 2025_
 ---
 
 ## 🛠️ Tech Stack
-**Lenguajes & Frameworks:** Java · Spring Boot · Spring Batch · Python  
-**Arquitectura:** Microservices · Clean Architecture · RESTful APIs  
-**Datos:** SQL  
-**Dev & Testing:** Git · Unit Testing  
-**Metodologías:** Agile / Scrum
+Java · Spring Boot · Spring Batch · Python · Microservices · Clean Architecture · RESTful APIs  
+SQL · Git · Unit Testing · Agile / Scrum
 
 <details>
 <summary>📚 Certificaciones & Idiomas</summary>
